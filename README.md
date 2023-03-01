@@ -19,7 +19,7 @@
 <ul>
   <li>1. Download the latest release of Notepad Extra from the GitHub repository.</li>
   <li>2. Extract the downloaded file to a directory of your choice.</li>
-  <li>3. Run the notepad-extra.java file to start the program.</li>
+  <li>3. Run the Main.java file to start the program.</li>
   <li>4. (Optional)Finally, replace all the absolute icon paths from the Main.java, with the new ones</li>
 </ul>
 
