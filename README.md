@@ -27,7 +27,7 @@
 
 <h3>💻 Usage</h3>
 
-<p>Notepad Extra has a user-friendly interface that is similar to the basic Notepad program. You can use it to create and edit text files, save and open files, and perform basic text editing tasks.</p>
+<p>Notepad Extra has a user-friendly interface that is similar to the basic Notepad program. You can use it to create and edit text files, save and open files, and perform basic text editing tasks with many more extra features like custom themes and fonts, Timestamps with options, and etc..</p>
 
 <h3>🤝 Contributions</h3>
 <p>Contributions to Notepad Extra are welcome and encouraged! If you find a bug or have an idea for a new feature, please open an issue on the GitHub repository or submit a pull request.</p>
