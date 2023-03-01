@@ -1,5 +1,5 @@
 <h1>Notepad Extra</h1>
-<p>Notepad Extra is noe of my persoanl Java projects that extends the functionality of the basic Notepad program. It includes advanced features such as custom themes and Lorem Ipsum text generation, in addition to all the basic Notepad features. I have used <b>Java Swing framework</b> to make it's GUI.</p>
+<p>Notepad Extra is one of my personal Java projects that extends the functionality of the basic Notepad program. It includes advanced features such as custom themes and Lorem Ipsum text generation, in addition to all the basic Notepad features. I have used <b>Java Swing framework</b> to make it's GUI.</p>
 
 <h3>🚀 Features</h3>
 <ul>
