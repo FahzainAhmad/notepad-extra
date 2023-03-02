@@ -4,7 +4,7 @@
 <h3>🚀 Features</h3>
 <ul>
   <li>🎨 Custom themes: Choose from a variety of color schemes to customize the look and feel of your Notepad Extra.</li>
-  <li>📝 Lorem Ipsum generation: Quickly insert Lorem Ipsum text into your document to help with layout and design.<.li>
+  <li>📝 Lorem Ipsum generation: Quickly insert Lorem Ipsum text into your document to help with layout and design.<li>
   <li>🎨 Dozens of pre-built themes to choose from.</li>
   <li>🔧 Custom theme options for background color and text color.</li>
   <li>🌙 Dark mode options for custom themes.</li>
